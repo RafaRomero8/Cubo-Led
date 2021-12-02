@@ -40,23 +40,22 @@
   cursor: pointer;
   justify-content: center;
   overflow: hidden;
-  margin: 15px;
 }
 .display:nth-child(1) {
   width: 300px;
   height: 140px;
 }
 .display:nth-child(2) {
-  width: 300px;
+  width: 350px;
   height: 350px;
 }
-.display #display_animation video {
+/* .display #display_animation video {
   justify-content: center;
   align-items: center;
   height: 330;
   width: 420px;
   margin-bottom: 20px;
-}
+} */
 
 .left li,
 .right li {
