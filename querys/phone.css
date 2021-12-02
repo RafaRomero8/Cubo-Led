@@ -3,7 +3,6 @@
   justify-content: center;
   align-items: center;
   align-content: center;
-  width: 100%;
 }
 .title h1 {
   font-family: consolas;
@@ -11,6 +10,8 @@
   margin-left: 5px;
   align-items: center;
   justify-content: center;
+  margin-top: 20px;
+  width: 100%;
 }
 
 .padre {
@@ -48,13 +49,6 @@
   width: 350px;
   height: 350px;
 }
-/* .display #display_animation video {
-  justify-content: center;
-  align-items: center;
-  height: 330;
-  width: 420px;
-  margin-bottom: 20px;
-} */
 
 .left li,
 .right li {
