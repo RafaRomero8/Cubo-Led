@@ -4,6 +4,7 @@
   align-items: center;
   align-content: center;
   width: 100%;
+  background: chartreuse;
 }
 .title h1 {
   font-family: consolas;
@@ -39,7 +40,7 @@
   cursor: pointer;
   justify-content: center;
   overflow: hidden;
-  margin: 5px;
+  margin: 15px;
 }
 .display:nth-child(1) {
   width: 300px;
@@ -48,6 +49,13 @@
 .display:nth-child(2) {
   width: 300px;
   height: 350px;
+}
+.display #display_animation video {
+  justify-content: center;
+  align-items: center;
+  height: 330;
+  width: 420px;
+  margin-bottom: 20px;
 }
 
 .left li,
